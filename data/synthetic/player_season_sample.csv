@@ -1,0 +1,13 @@
+player_id,player_name,team_name,competition,season,position,age,minutes,starts,appearances,goals,assists,shots,key_passes,tackles_won,interceptions,progressive_carries,errors_leading_to_shot,availability_days,data_status,source_note
+SYN-001,Demo Forward A,West Ham United FC,English Championship,2026/27,Forward,24,1440,16,18,9,4,38,21,6,3,42,1,310,synthetic,Illustrative sample record; not real player data
+SYN-002,Demo Forward B,West Ham United FC,English Championship,2026/27,Forward,21,980,10,17,6,6,29,26,4,2,35,0,335,synthetic,Illustrative sample record; not real player data
+SYN-003,Demo Midfielder A,West Ham United FC,English Championship,2026/27,Midfielder,26,1620,18,19,4,8,22,47,31,18,74,2,320,synthetic,Illustrative sample record; not real player data
+SYN-004,Demo Midfielder B,West Ham United FC,English Championship,2026/27,Midfielder,23,1215,13,16,3,5,18,34,24,15,61,1,302,synthetic,Illustrative sample record; not real player data
+SYN-005,Demo Defender A,West Ham United FC,English Championship,2026/27,Defender,28,1710,19,19,1,2,9,8,39,27,18,3,340,synthetic,Illustrative sample record; not real player data
+SYN-006,Demo Defender B,West Ham United FC,English Championship,2026/27,Defender,22,1080,11,15,1,1,6,5,28,19,25,1,325,synthetic,Illustrative sample record; not real player data
+SYN-007,Demo Forward C,Southampton FC,English Championship,2026/27,Forward,25,1505,17,19,8,3,41,18,5,4,39,2,330,synthetic,Illustrative benchmark record; not real player data
+SYN-008,Demo Midfielder C,Southampton FC,English Championship,2026/27,Midfielder,27,1580,18,19,5,7,25,43,29,20,69,2,342,synthetic,Illustrative benchmark record; not real player data
+SYN-009,Demo Defender C,Southampton FC,English Championship,2026/27,Defender,30,1650,18,19,2,1,11,7,36,31,14,3,338,synthetic,Illustrative benchmark record; not real player data
+SYN-010,Demo Forward D,Derby County FC,English Championship,2026/27,Forward,20,890,8,16,5,5,24,19,3,2,31,1,305,synthetic,Illustrative benchmark record; not real player data
+SYN-011,Demo Midfielder D,Derby County FC,English Championship,2026/27,Midfielder,24,1320,14,18,2,6,17,39,26,17,58,1,318,synthetic,Illustrative benchmark record; not real player data
+SYN-012,Demo Defender D,Derby County FC,English Championship,2026/27,Defender,25,1540,17,19,1,2,8,9,34,25,21,2,329,synthetic,Illustrative benchmark record; not real player data
