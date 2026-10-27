@@ -13,5 +13,6 @@ __pycache__/
 *.log
 
 .snowflake/
+data/private/
 *.pem
 *.key

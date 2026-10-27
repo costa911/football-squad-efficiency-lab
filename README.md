@@ -14,7 +14,9 @@ The project will be developed locally first, then loaded into Snowflake and expl
 - Local snapshot: `data/raw/championship-2026-27.json`
 - Snapshot checked: 2026-10-27
 - Matches in snapshot: 552
-- Player-level data: not yet added; the first player dataset will be synthetic
+- Player-level source validated: StrikerAPI Championship endpoint
+- Player-level API extracts: local-only under `data/private/strikerapi/`
+- Public player sample: `data/synthetic/player_season_sample.csv`
 
 ## Source and licensing policy
 
@@ -22,7 +24,7 @@ The public pipeline currently uses [OpenFootball](https://github.com/openfootbal
 
 API-Football is not used in the public pipeline. Its terms state that it does not grant a publication licence for supplied data and that users are responsible for obtaining any required rights-holder permissions.
 
-Until a clearly reusable player-statistics source is validated, player-level records in this repository will be synthetic and labelled as such.
+StrikerAPI has now been validated for current Championship player and match data, including minutes, goals, assists, shots, xG, lineups and match events. Its [terms](https://strikerapi.com/terms) allow personal research, analysis, storage and derived metrics, but prohibit redistributing the raw data as a standalone public dataset or file. Therefore, StrikerAPI extracts remain local-only and are excluded by `.gitignore`; the public player sample remains synthetic and is labelled as such.
 
 ## Planned data flow
 
