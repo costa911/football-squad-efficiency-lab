@@ -1,6 +1,6 @@
 # Football Squad Efficiency Lab
 
-A hands-on football analytics project built alongside Codecademy.
+A hands-on football analytics project.
 
 ## Project aim
 
