@@ -16,3 +16,10 @@ __pycache__/
 data/private/
 *.pem
 *.key
+
+# Power BI reports (review before publishing)
+*.pbix
+*.pbit
+
+# Local Snowflake connections
+connections.toml
